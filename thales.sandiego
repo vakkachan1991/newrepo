@@ -1,5 +1,5 @@
 class ganesh {
-public ststic void man (string [] args) {
+ ststic void man (string [] args) {
 system.out.println( "this is first program");
 system.out.println("print secondline")
 }
